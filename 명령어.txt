@@ -1,0 +1,42 @@
+python -m venv venv
+.\venv\Scripts\activate
+
+python manage.py runserver
+
+144F5D
+FB7D54
+
+F78F6A
+
+Animation
+Cartoon
+Video
+3d (Modeling)
+Graduation
+
+할 일
+
+- 폰트 적용
+
+댓글 이전 다음 버튼으로 만들고 흰바탕에 거믄거 -> 색 컨펌 받기 -> 흰거에 검은 거(테두리 상관x, 폰트 또는 굵기를 다르게(다음 이전을))
+
+작품 상세에 넘어가는 칸 만들어보기(웹툰 올릴 것)
+
+사진은 비디오에 넣을 거임
+구하늘02, 박미진3,4 -> 카툰에 넣을 것
+
+카테고리 비디오 칸에 홈페이지가 pc에 최적화 되어있다 적기
+
+인스타 -> @8th_ksu_screenart / https://www.instagram.com/8th_ksu_screenart/
+
+home 버튼 -> 학교 홈페이지 https://kscms.ks.ac.kr/sarts/Main.do
+
+admin 홈페이지 작동방법 가이드 작성
+
+
+
+QR 배포 -> 카운트 다운 제작 -> 수정
+
+주말 토요일 2시 (임시) / 일요일 2시 (임시) -> QR코드 제작
+
+>>>카운트 다운 홈페이지 제작하기<<<
